@@ -1,0 +1,26 @@
+
+   body{
+       background-color:#EAF6F6;
+   }
+   hr{
+     border-color:grey;
+     border-style: none;
+     border-top-style: dotted;
+     border-width: 3px;
+     width: 3%;
+   }
+  h1{
+    color: #316B83;
+  }
+  h3{
+    color: #316B83;
+  }
+  h1:hover{
+    color:gold;
+  }
+a:link { color: blue; }          /* Unvisited links */
+a:visited { color: purple; }     /* Visited links */
+a:hover { background: yellow; }  /* Hovered links */
+a:active { color: red; }         /* Active links */
+
+p:active { background: #eee; }   /* Active paragraphs */
