@@ -18,6 +18,9 @@
   h1:hover{
     color:gold;
   }
+a{
+   text-decoration:none;
+}
 a:link { color: blue; }          /* Unvisited links */
 a:visited { color: purple; }     /* Visited links */
 a:hover { background: yellow; }  /* Hovered links */
